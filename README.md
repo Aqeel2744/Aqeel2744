@@ -1,7 +1,3 @@
-Here’s a clean, professional **GitHub README.md** you can use as a full MERN stack developer. You can copy, tweak, and personalize it:
-
----
-
 👋 Hi, I'm Aqeel
 
 💻 Full Stack MERN Developer | 🚀 Passionate about building scalable web apps
