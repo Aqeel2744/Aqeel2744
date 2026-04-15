@@ -38,7 +38,7 @@ I enjoy building fast, responsive, and user-friendly web applications with moder
 * ThunderClient
 
 ## 📫 Connect With Me
-* LinkedIn: [Your LinkedIn Link]
+* LinkedIn: https://www.linkedin.com/in/aqeel-sheikh-9a0360333?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 
 
